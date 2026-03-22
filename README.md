@@ -1,6 +1,6 @@
 # GPT Model Evolution Timeline
 
-### TRY [Kael.im](https://kael.im/home)(NotebookLM slides alternative) and register at this link for 100 pages free daily quota (nbp)!
+### TRY [Kael.im](https://kael.im/home) to upload any AI research paper and get interactive slides and deep analysis, 100 pages free daily!
 
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-deployed-success)
 ![License](https://img.shields.io/badge/license-MIT-blue)
